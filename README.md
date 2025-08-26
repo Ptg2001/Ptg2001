@@ -8,11 +8,10 @@
 
 <br/>
 
-<img align="right" alt="coding" style="width: 400px; height: 300px;" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <div align="left">
-<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px" align="center"></picture> 
-<h3>About me</h3>
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="About Me" width="50" height="50" /> About me</h3>
 </div>
 
 - 🔭 I'm currently working on **Full Stack Development**
@@ -115,7 +114,11 @@
 </p>
 
 <div align="center">
-    <img src="https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    </picture>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -123,31 +126,18 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **GitHub Stats**
 
 <div align="center">
-<table>
-<tr>
-<td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ptg2001&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ptg2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=Ptg2001&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-</td>
-<td width="50%">
+<br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ptg2001&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ptg2001&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&card_width=800" alt="Top Languages"/>
 
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ptg2001&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
-
-</td>
-</tr>
-</table>
 </div>
 
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ptg2001&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ptg2001&custom_title=Piyush's%20Contribution%20Graph&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
